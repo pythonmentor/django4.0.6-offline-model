@@ -4,7 +4,7 @@ Le code contenu dans ce projet a pour objectif de permettre la création d'un pr
 machine qui n'est pas connectée à internet.
 
 
-[<img src="https://i.gyazo.com/79e2dba25fe15d69df93f9d1c545017a.jpg" width="50%">)](https://vimeo.com/728358593/a8dec4e3dd "Installation offline d'un projet django")
+[<img src="https://i.gyazo.com/2cdd4650ee6e3dc86a10cc910e0f1181.png" width="50%">)](https://vimeo.com/728371556/cd5d16ead1 "Installation offline d'un projet django")
 
 ## Instruction d'installation
 
