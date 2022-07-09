@@ -3,7 +3,7 @@
 Le code contenu dans ce projet a pour objectif de permettre la création d'un projet django de démarrage sur une
 machine qui n'est pas connectée à internet.
 
-<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/728358593?h=a8dec4e3dd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Installation offline d&amp;#039;un projet django"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+https://vimeo.com/728358593/a8dec4e3dd
 
 ## Instruction d'installation
 
