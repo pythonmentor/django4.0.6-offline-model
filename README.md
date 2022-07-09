@@ -4,7 +4,7 @@ Le code contenu dans ce projet a pour objectif de permettre la création d'un pr
 machine qui n'est pas connectée à internet.
 
 
-[Regarder en vidéo]([https://youtu.be/vt5fpE0bzSY](https://vimeo.com/728358593/a8dec4e3dd)
+[![Regarder en vidéo](https://i.gyazo.com/79e2dba25fe15d69df93f9d1c545017a.jpg)]([https://youtu.be/vt5fpE0bzSY](https://vimeo.com/728358593/a8dec4e3dd)
 
 ## Instruction d'installation
 
